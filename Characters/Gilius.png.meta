@@ -1,0 +1,1418 @@
+fileFormatVersion: 2
+guid: 23739d0cd4d37f246b9329d2e788b6e2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 196466348811001296
+    second: Gilius_0
+  - first:
+      213: 4061643167488833203
+    second: Gilius_1
+  - first:
+      213: -326946339912649841
+    second: Gilius_2
+  - first:
+      213: -809592642052431183
+    second: Gilius_3
+  - first:
+      213: 2102345608265429741
+    second: Gilius_4
+  - first:
+      213: -2520010637498069320
+    second: Gilius_5
+  - first:
+      213: -4841261817421826957
+    second: Gilius_6
+  - first:
+      213: -3928791770316833365
+    second: Gilius_7
+  - first:
+      213: 2096051974199094967
+    second: Gilius_8
+  - first:
+      213: -7487649540583628390
+    second: Gilius_9
+  - first:
+      213: -5944433501608757158
+    second: Gilius_10
+  - first:
+      213: -3365437275211760365
+    second: Gilius_11
+  - first:
+      213: 780735612228292299
+    second: Gilius_12
+  - first:
+      213: 3861576781837783358
+    second: Gilius_13
+  - first:
+      213: -4532765453880380763
+    second: Gilius_14
+  - first:
+      213: -1217775418064871208
+    second: Gilius_15
+  - first:
+      213: -8238369174013734961
+    second: Gilius_16
+  - first:
+      213: 7385763124543992586
+    second: Gilius_17
+  - first:
+      213: -2225768993230977885
+    second: Gilius_18
+  - first:
+      213: -2440236050078894113
+    second: Gilius_19
+  - first:
+      213: 7200825928698874432
+    second: Gilius_20
+  - first:
+      213: -4113715460422671188
+    second: Gilius_21
+  - first:
+      213: -5730141889669836542
+    second: Gilius_22
+  - first:
+      213: 663201697902547136
+    second: Gilius_23
+  - first:
+      213: -1430216132133925447
+    second: Gilius_24
+  - first:
+      213: 7944923962528297111
+    second: Gilius_25
+  - first:
+      213: -3397373761131121237
+    second: Gilius_26
+  - first:
+      213: -7411831664840694054
+    second: Gilius_27
+  - first:
+      213: -7703618885233569779
+    second: Gilius_28
+  - first:
+      213: 8185317173129250225
+    second: Gilius_29
+  - first:
+      213: 5939009625688518647
+    second: Gilius_30
+  - first:
+      213: -144597696448162009
+    second: Gilius_31
+  - first:
+      213: 4060306480941459822
+    second: Gilius_32
+  - first:
+      213: 8902831576812668900
+    second: Gilius_33
+  - first:
+      213: 3223646025946626282
+    second: Gilius_34
+  - first:
+      213: -3704820527123803099
+    second: Gilius_35
+  - first:
+      213: -5303029643903154331
+    second: Gilius_36
+  - first:
+      213: 5395635418509950917
+    second: Gilius_37
+  - first:
+      213: -1019475010161622033
+    second: Gilius_38
+  - first:
+      213: 4299539920259876255
+    second: Gilius_39
+  - first:
+      213: 8260321020950924141
+    second: Gilius_40
+  - first:
+      213: -4998767603174540940
+    second: Gilius_41
+  - first:
+      213: -5048984953107852353
+    second: Gilius_42
+  - first:
+      213: -6437652671533916732
+    second: Gilius_43
+  - first:
+      213: 5460342464410341173
+    second: Gilius_44
+  - first:
+      213: -537847021899123975
+    second: Gilius_45
+  - first:
+      213: 1588991995109848100
+    second: Gilius_46
+  - first:
+      213: -548182193153900601
+    second: Gilius_47
+  - first:
+      213: -1560772933093710535
+    second: Gilius_48
+  - first:
+      213: -7341008634298955675
+    second: Gilius_49
+  - first:
+      213: -6347828738004180813
+    second: Gilius_50
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gilius_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 343
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dd92337a1df9b200800000000000000
+      internalID: 196466348811001296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilius_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 342
+        width: 47
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b6709af0fadd5830800000000000000
+      internalID: 4061643167488833203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilius_2
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 343
+        width: 50
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8374ec3904767bf0800000000000000
+      internalID: -326946339912649841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilius_3
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 343
+        width: 47
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b2e1bd08cfb3c4f0800000000000000
+      internalID: -809592642052431183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilius_4
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 343
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de273c721380d2d10800000000000000
+      internalID: 2102345608265429741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilius_5
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 343
+        width: 29
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bec8b14daf170dd0800000000000000
+      internalID: -2520010637498069320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilius_6
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 343
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374f8e3f60260dcb0800000000000000
+      internalID: -4841261817421826957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilius_7
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 342
+        width: 31
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bad79c553b02a79c0800000000000000
+      internalID: -3928791770316833365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilius_8
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 343
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bea4e84a2ca61d10800000000000000
+      internalID: 2096051974199094967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilius_9
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 343
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9165e20a66861890800000000000000
+      internalID: -7487649540583628390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilius_10
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 343
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a58bda9a931218da0800000000000000
+      internalID: -5944433501608757158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilius_11
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 263
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31df42901a09b41d0800000000000000
+      internalID: -3365437275211760365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilius_12
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 263
+        width: 59
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce4d5e17eab5da00800000000000000
+      internalID: 780735612228292299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilius_13
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 263
+        width: 82
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e315652af93179530800000000000000
+      internalID: 3861576781837783358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilius_14
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 263
+        width: 66
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a23c47d5d16811c0800000000000000
+      internalID: -4532765453880380763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilius_15
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 263
+        width: 78
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d06a0695b7991fe0800000000000000
+      internalID: -1217775418064871208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilius_16
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 263
+        width: 75
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf026e82ee6bad80800000000000000
+      internalID: -8238369174013734961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilius_17
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 263
+        width: 73
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a03bf992e608f7660800000000000000
+      internalID: 7385763124543992586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilius_18
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 263
+        width: 54
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a4836ea4ea7c11e0800000000000000
+      internalID: -2225768993230977885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilius_19
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 263
+        width: 47
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7f1facd3a822ed0800000000000000
+      internalID: -2440236050078894113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilius_20
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 183
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ac481d7097ee360800000000000000
+      internalID: 7200825928698874432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilius_21
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 183
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca4697a859529e6c0800000000000000
+      internalID: -4113715460422671188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilius_22
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 183
+        width: 55
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 201d4a99f427a70b0800000000000000
+      internalID: -5730141889669836542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilius_23
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 183
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c0dae13e6a243900800000000000000
+      internalID: 663201697902547136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilius_24
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 183
+        width: 67
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bdcf14610ad62ce0800000000000000
+      internalID: -1430216132133925447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilius_25
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 183
+        width: 55
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 790fcf9ff3a024e60800000000000000
+      internalID: 7944923962528297111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilius_26
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 182
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5fb86709a1ad0d0800000000000000
+      internalID: -3397373761131121237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilius_27
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 183
+        width: 58
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad6ad22de52e32990800000000000000
+      internalID: -7411831664840694054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilius_28
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 183
+        width: 50
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0099ac707f371590800000000000000
+      internalID: -7703618885233569779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilius_29
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 184
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b5064ee996189170800000000000000
+      internalID: 8185317173129250225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilius_30
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 95
+        width: 57
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff2ac0d9c99b6250800000000000000
+      internalID: 5939009625688518647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilius_31
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 95
+        width: 39
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7271ed349294efdf0800000000000000
+      internalID: -144597696448162009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilius_32
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 95
+        width: 77
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e696bb36b3b195830800000000000000
+      internalID: 4060306480941459822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilius_33
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 95
+        width: 82
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e7cc0f56263d8b70800000000000000
+      internalID: 8902831576812668900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilius_34
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 95
+        width: 70
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae8f5222bf0bcbc20800000000000000
+      internalID: 3223646025946626282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilius_35
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 95
+        width: 55
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 524d53c0c55d59cc0800000000000000
+      internalID: -3704820527123803099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilius_36
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 95
+        width: 89
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56749c1b2aad766b0800000000000000
+      internalID: -5303029643903154331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilius_37
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 147
+        width: 30
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cf3dc963d521ea40800000000000000
+      internalID: 5395635418509950917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilius_38
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 95
+        width: 66
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3cde131e81ad1f0800000000000000
+      internalID: -1019475010161622033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilius_39
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 23
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9583bc07c80bab30800000000000000
+      internalID: 4299539920259876255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilius_40
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 23
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6bc878143e82a270800000000000000
+      internalID: 8260321020950924141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilius_41
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 23
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 479fc0a795fc0aab0800000000000000
+      internalID: -4998767603174540940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilius_42
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 23
+        width: 37
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb3d6b19fe66ee9b0800000000000000
+      internalID: -5048984953107852353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilius_43
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 23
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cd50edd00dd8a6a0800000000000000
+      internalID: -6437652671533916732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilius_44
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 23
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53fc82f8a8807cb40800000000000000
+      internalID: 5460342464410341173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilius_45
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 23
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f27334bbfe2988f0800000000000000
+      internalID: -537847021899123975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilius_46
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 23
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 424367bfccb3d0610800000000000000
+      internalID: 1588991995109848100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilius_47
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 23
+        width: 62
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cffdd023377468f0800000000000000
+      internalID: -548182193153900601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilius_48
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 23
+        width: 60
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 935a7e36945075ae0800000000000000
+      internalID: -1560772933093710535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilius_49
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 23
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 568098b9a8f7f1a90800000000000000
+      internalID: -7341008634298955675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gilius_50
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 4
+        width: 527
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b0ae30256bf7e7a0800000000000000
+      internalID: -6347828738004180813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

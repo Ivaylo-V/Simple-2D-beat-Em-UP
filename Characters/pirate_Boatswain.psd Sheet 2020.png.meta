@@ -1,0 +1,951 @@
+fileFormatVersion: 2
+guid: 2de19ecedd290ed43925bd3e0a1d5b64
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5757581615705004801
+    second: pirate_Boatswain.psd Sheet 2020_0
+  - first:
+      213: -8154230789635818745
+    second: pirate_Boatswain.psd Sheet 2020_1
+  - first:
+      213: -6952466276214667614
+    second: pirate_Boatswain.psd Sheet 2020_2
+  - first:
+      213: -4552596120909871769
+    second: pirate_Boatswain.psd Sheet 2020_3
+  - first:
+      213: -8120712929714303150
+    second: pirate_Boatswain.psd Sheet 2020_4
+  - first:
+      213: 1309519536283080302
+    second: pirate_Boatswain.psd Sheet 2020_5
+  - first:
+      213: 209733623542761276
+    second: pirate_Boatswain.psd Sheet 2020_6
+  - first:
+      213: 4819887464980420897
+    second: pirate_Boatswain.psd Sheet 2020_7
+  - first:
+      213: 7039345509068470497
+    second: pirate_Boatswain.psd Sheet 2020_8
+  - first:
+      213: -4649958726257078521
+    second: pirate_Boatswain.psd Sheet 2020_9
+  - first:
+      213: 5051108795759939935
+    second: pirate_Boatswain.psd Sheet 2020_10
+  - first:
+      213: -8322328637821979127
+    second: pirate_Boatswain.psd Sheet 2020_11
+  - first:
+      213: 2634336307307317932
+    second: pirate_Boatswain.psd Sheet 2020_12
+  - first:
+      213: 1471519768973843044
+    second: pirate_Boatswain.psd Sheet 2020_13
+  - first:
+      213: -1191691046360312304
+    second: pirate_Boatswain.psd Sheet 2020_14
+  - first:
+      213: 3703791116531587603
+    second: pirate_Boatswain.psd Sheet 2020_15
+  - first:
+      213: -3854785426051850250
+    second: pirate_Boatswain.psd Sheet 2020_16
+  - first:
+      213: 6505165827948193294
+    second: pirate_Boatswain.psd Sheet 2020_17
+  - first:
+      213: -5918290742921615185
+    second: pirate_Boatswain.psd Sheet 2020_18
+  - first:
+      213: -4810517624031523586
+    second: pirate_Boatswain.psd Sheet 2020_19
+  - first:
+      213: -3002333673180864291
+    second: pirate_Boatswain.psd Sheet 2020_20
+  - first:
+      213: -3951763045470652044
+    second: pirate_Boatswain.psd Sheet 2020_21
+  - first:
+      213: 4040944439514130837
+    second: pirate_Boatswain.psd Sheet 2020_22
+  - first:
+      213: 5066396465776436331
+    second: pirate_Boatswain.psd Sheet 2020_23
+  - first:
+      213: 1984626179432834717
+    second: pirate_Boatswain.psd Sheet 2020_24
+  - first:
+      213: 2510637131495966041
+    second: pirate_Boatswain.psd Sheet 2020_25
+  - first:
+      213: -6754821121854264813
+    second: pirate_Boatswain.psd Sheet 2020_26
+  - first:
+      213: 4049038426689407075
+    second: pirate_Boatswain.psd Sheet 2020_27
+  - first:
+      213: -19386768557660612
+    second: pirate_Boatswain.psd Sheet 2020_28
+  - first:
+      213: 2135780243972547489
+    second: pirate_Boatswain.psd Sheet 2020_29
+  - first:
+      213: 7170767916057710219
+    second: pirate_Boatswain.psd Sheet 2020_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pirate_Boatswain.psd Sheet 2020_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 896
+        width: 86
+        height: 102
+      alignment: 9
+      pivot: {x: 0.33, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec513b60bf1ce54eb675b832a892929
+      internalID: -1571710037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_Boatswain.psd Sheet 2020_1
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 896
+        width: 86
+        height: 102
+      alignment: 9
+      pivot: {x: 0.34, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a24e698d8e87a4ea33d1660ef9a9f6
+      internalID: 116448316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_Boatswain.psd Sheet 2020_2
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 896
+        width: 86
+        height: 102
+      alignment: 9
+      pivot: {x: 0.34, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc5671fbc347e9a48b8b8a2b0201a719
+      internalID: 294450520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_Boatswain.psd Sheet 2020_3
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 896
+        width: 78
+        height: 102
+      alignment: 9
+      pivot: {x: 0.28, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8f1a0f7c006764cae7cb9853b6f88e
+      internalID: -1832905259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_Boatswain.psd Sheet 2020_4
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 896
+        width: 92
+        height: 102
+      alignment: 9
+      pivot: {x: 0.39, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e00daf3a01fa64aafa9f48f0c3a15b
+      internalID: -115203193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_Boatswain.psd Sheet 2020_5
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 736
+        width: 88
+        height: 100
+      alignment: 9
+      pivot: {x: 0.34, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3837bba1f803145a829ffad86a865a
+      internalID: 2050948378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_Boatswain.psd Sheet 2020_6
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 736
+        width: 112
+        height: 102
+      alignment: 9
+      pivot: {x: 0.28, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebacf5ead65aa8c4dabbda60c734a623
+      internalID: -623047546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_Boatswain.psd Sheet 2020_7
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 736
+        width: 76
+        height: 102
+      alignment: 9
+      pivot: {x: 0.4, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fff5653875decb489621162bcd0ed8e
+      internalID: 512037051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_Boatswain.psd Sheet 2020_8
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 736
+        width: 98
+        height: 102
+      alignment: 9
+      pivot: {x: 0.33, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6de9065973924b45adba409d5f31286
+      internalID: 171467980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_Boatswain.psd Sheet 2020_9
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 736
+        width: 86
+        height: 102
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088a2e5a0d2914b4eb52f6a6aa2c6186
+      internalID: 432632956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_Boatswain.psd Sheet 2020_10
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 576
+        width: 86
+        height: 102
+      alignment: 9
+      pivot: {x: 0.34, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b60ce1e21e80ac499d718c9f25f70c8
+      internalID: -5348539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_Boatswain.psd Sheet 2020_11
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 576
+        width: 96
+        height: 100
+      alignment: 9
+      pivot: {x: 0.34, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce15150747cbeb499c7d01c7dd3f2fc
+      internalID: -1568344411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_Boatswain.psd Sheet 2020_12
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 574
+        width: 122
+        height: 96
+      alignment: 9
+      pivot: {x: 0.21, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063b76cbf16a9a14aa599ceb21b398b9
+      internalID: -1558526313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_Boatswain.psd Sheet 2020_13
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 574
+        width: 122
+        height: 96
+      alignment: 9
+      pivot: {x: 0.22, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8aacfd3b24eb6a40bec01ff4518383a
+      internalID: -1712797760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_Boatswain.psd Sheet 2020_14
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 576
+        width: 86
+        height: 102
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12354ef5a1968d94cb9f22c49fe82421
+      internalID: 466767602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_Boatswain.psd Sheet 2020_15
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 532
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407418969211dff45b4fa5890e7ae465
+      internalID: -1229645252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_Boatswain.psd Sheet 2020_16
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 530
+        width: 10
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e36b3eab856bca48821d118515ce416
+      internalID: 388142993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_Boatswain.psd Sheet 2020_17
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 528
+        width: 8
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7adcb33bb3f8e4ba67caae432e6d89
+      internalID: -61111281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_Boatswain.psd Sheet 2020_18
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 528
+        width: 8
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ce170024cad604aa359b9440486de9
+      internalID: -1879591632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_Boatswain.psd Sheet 2020_19
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 524
+        width: 6
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11bfd91f698bddf45b8b434a5dae284d
+      internalID: 307673831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_Boatswain.psd Sheet 2020_20
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 102
+        height: 114
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b9f683f7609524e90f5221bd671f4a
+      internalID: -1465833066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_Boatswain.psd Sheet 2020_21
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 416
+        width: 102
+        height: 112
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dccf9ad2ae9045e4cb9a7365d529a572
+      internalID: -1627594622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_Boatswain.psd Sheet 2020_22
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 416
+        width: 76
+        height: 114
+      alignment: 9
+      pivot: {x: 0.49, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc9c114fec11e6438bca8011ff5b863
+      internalID: -1254280172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_Boatswain.psd Sheet 2020_23
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 524
+        width: 6
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54588f0dab0ff8f4c8ef47a76099c63d
+      internalID: 1676890193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_Boatswain.psd Sheet 2020_24
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 494
+        width: 4
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f4002a6abc1d54585ddc812cd7ca83
+      internalID: 1135534375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_Boatswain.psd Sheet 2020_25
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 490
+        width: 6
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1dc563a02ad08e43bdc27b2c66f6640
+      internalID: -788698033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_Boatswain.psd Sheet 2020_26
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 492
+        width: 4
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0948e7290e58e7b4089985a5aadcb809
+      internalID: 862696730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_Boatswain.psd Sheet 2020_27
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 490
+        width: 4
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a277ba26a32b7c43b667e94b1ce1026
+      internalID: -1033548486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_Boatswain.psd Sheet 2020_28
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 416
+        width: 196
+        height: 94
+      alignment: 9
+      pivot: {x: 0.14, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03772e8ac3dd56c47ac62bf2f19c6755
+      internalID: 1801646752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_Boatswain.psd Sheet 2020_29
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 417
+        width: 300
+        height: 94
+      alignment: 9
+      pivot: {x: 0.09, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd9975213a09144cbc107ee4b369137
+      internalID: -430020715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirate_Boatswain.psd Sheet 2020_30
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 256
+        width: 210
+        height: 100
+      alignment: 9
+      pivot: {x: 0.16, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278f0c425c9e2064f9aece4ac8483a12
+      internalID: 1179070368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8addc5f638b9c8545b43c40d536cc49c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":9,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      pirate_Boatswain.psd Sheet 2020_0: -1571710037
+      pirate_Boatswain.psd Sheet 2020_1: 116448316
+      pirate_Boatswain.psd Sheet 2020_10: -5348539
+      pirate_Boatswain.psd Sheet 2020_11: -1568344411
+      pirate_Boatswain.psd Sheet 2020_12: -1558526313
+      pirate_Boatswain.psd Sheet 2020_13: -1712797760
+      pirate_Boatswain.psd Sheet 2020_14: 466767602
+      pirate_Boatswain.psd Sheet 2020_15: -1229645252
+      pirate_Boatswain.psd Sheet 2020_16: 388142993
+      pirate_Boatswain.psd Sheet 2020_17: -61111281
+      pirate_Boatswain.psd Sheet 2020_18: -1879591632
+      pirate_Boatswain.psd Sheet 2020_19: 307673831
+      pirate_Boatswain.psd Sheet 2020_2: 294450520
+      pirate_Boatswain.psd Sheet 2020_20: -1465833066
+      pirate_Boatswain.psd Sheet 2020_21: -1627594622
+      pirate_Boatswain.psd Sheet 2020_22: -1254280172
+      pirate_Boatswain.psd Sheet 2020_23: 1676890193
+      pirate_Boatswain.psd Sheet 2020_24: 1135534375
+      pirate_Boatswain.psd Sheet 2020_25: -788698033
+      pirate_Boatswain.psd Sheet 2020_26: 862696730
+      pirate_Boatswain.psd Sheet 2020_27: -1033548486
+      pirate_Boatswain.psd Sheet 2020_28: 1801646752
+      pirate_Boatswain.psd Sheet 2020_29: -430020715
+      pirate_Boatswain.psd Sheet 2020_3: -1832905259
+      pirate_Boatswain.psd Sheet 2020_30: 1179070368
+      pirate_Boatswain.psd Sheet 2020_4: -115203193
+      pirate_Boatswain.psd Sheet 2020_5: 2050948378
+      pirate_Boatswain.psd Sheet 2020_6: -623047546
+      pirate_Boatswain.psd Sheet 2020_7: 512037051
+      pirate_Boatswain.psd Sheet 2020_8: 171467980
+      pirate_Boatswain.psd Sheet 2020_9: 432632956
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
