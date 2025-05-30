@@ -95,7 +95,7 @@ public class CharacterMovement : MonoBehaviour
             Vector2 rayDirectionVertical = new Vector2(0, controls.VerticalMove).normalized;
 
             // Raycast distances
-            float rayDistance = 0.6f;
+            float rayDistance = 0.8f;
 
             Vector3 targetVelocity = new Vector2(controls.HorizontalMove * hSpeed, controls.VerticalMove * vSpeed);
 
@@ -104,7 +104,7 @@ public class CharacterMovement : MonoBehaviour
 
             if (hitHorizontal.collider != null)
             {
-                Debug.Log("Horizontal wall detected, stopping movement!");
+                
                 targetVelocity.x = 0; // Stop horizontal movement
                 movementSmooth = 0;
             }
@@ -114,7 +114,7 @@ public class CharacterMovement : MonoBehaviour
 
             if (hitVertical.collider != null)
             {
-                Debug.Log("Vertical wall detected, stopping movement!");
+                
                 targetVelocity.y = 0; // Stop vertical movement
                 movementSmooth = 0;
             }

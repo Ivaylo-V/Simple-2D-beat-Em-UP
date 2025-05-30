@@ -13,19 +13,38 @@ public class WorldMovement : MonoBehaviour
 
     private void FixedUpdate()
     {
-
         float minX = Camera.main.ViewportToWorldPoint(new Vector3(0.07f, 0, 0)).x;
         float maxX = Camera.main.ViewportToWorldPoint(new Vector3(0.93f, 0, 0)).x;
 
-        if (_character.transform.position.x <= minX && Input.GetKey("a"))
+        // Define raycast origins
+        Vector2 rayOrigin = _character.transform.position;
+
+        // Define ray directions
+        Vector2 rayDirectionVertical = transform.forward;
+
+        // Raycast distances
+        float rayDistance = 1.6f;
+
+        RaycastHit2D hitVertical = Physics2D.Raycast(rayOrigin, rayDirectionVertical, rayDistance, LayerMask.GetMask("Wall"));
+
+
+
+        if(hitVertical.collider != null)
         {
-            movingRight = false;
-            LevelMovement();
+
         }
-        else if(_character.transform.position.x >= maxX && Input.GetKey("d"))
+        else
         {
-            movingRight = true;
-            LevelMovement();
+            if (_character.transform.position.x <= minX && Input.GetKey("a"))
+            {
+                movingRight = false;
+                LevelMovement();
+            }
+            else if(_character.transform.position.x >= maxX && Input.GetKey("d"))
+            {
+                movingRight = true;
+                LevelMovement();
+            }
         }
 
 
