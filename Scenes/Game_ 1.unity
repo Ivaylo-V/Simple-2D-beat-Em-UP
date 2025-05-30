@@ -833,7 +833,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 1.87, y: 1.87}
+  m_Size: {x: 2.01, y: 1.87}
   m_EdgeRadius: 0
 --- !u!1 &896776504
 GameObject:
@@ -897,7 +897,7 @@ BoxCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 1
+  m_IsTrigger: 0
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
@@ -1194,7 +1194,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 1.87, y: 1.87}
+  m_Size: {x: 2.01, y: 1.87}
   m_EdgeRadius: 0
 --- !u!1 &1209956932
 GameObject:
@@ -1714,12 +1714,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _character: {fileID: 397993581}
-  attack1: {fileID: -1627594622, guid: 2de19ecedd290ed43925bd3e0a1d5b64, type: 3}
-  attack2: {fileID: -1254280172, guid: 2de19ecedd290ed43925bd3e0a1d5b64, type: 3}
-  attack3: {fileID: 1801646752, guid: 2de19ecedd290ed43925bd3e0a1d5b64, type: 3}
-  attack4: {fileID: -430020715, guid: 2de19ecedd290ed43925bd3e0a1d5b64, type: 3}
-  attack5: {fileID: 1179070368, guid: 2de19ecedd290ed43925bd3e0a1d5b64, type: 3}
-  attack6: {fileID: -1254280172, guid: 2de19ecedd290ed43925bd3e0a1d5b64, type: 3}
+  attack1: {fileID: -1254280172, guid: 2de19ecedd290ed43925bd3e0a1d5b64, type: 3}
+  attack2: {fileID: 1801646752, guid: 2de19ecedd290ed43925bd3e0a1d5b64, type: 3}
+  attack3: {fileID: 1179070368, guid: 2de19ecedd290ed43925bd3e0a1d5b64, type: 3}
   Neutral: {fileID: -1571710037, guid: 2de19ecedd290ed43925bd3e0a1d5b64, type: 3}
   walk1: {fileID: -1832905259, guid: 2de19ecedd290ed43925bd3e0a1d5b64, type: 3}
   walk2: {fileID: -115203193, guid: 2de19ecedd290ed43925bd3e0a1d5b64, type: 3}
@@ -1784,7 +1781,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 1.87, y: 1.87}
+  m_Size: {x: 2.01, y: 1.87}
   m_EdgeRadius: 0
 --- !u!4 &1654927183
 Transform:
@@ -2050,7 +2047,6 @@ GameObject:
   m_Component:
   - component: {fileID: 2108042661}
   - component: {fileID: 2108042662}
-  - component: {fileID: 2108042663}
   m_Layer: 0
   m_Name: EndLevelTrigger
   m_TagString: Untagged
@@ -2067,7 +2063,7 @@ Transform:
   m_GameObject: {fileID: 2108042660}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 7.12, y: 0.16, z: 0}
+  m_LocalPosition: {x: 6.69, y: 0.48, z: 0}
   m_LocalScale: {x: 0.33333334, y: 0.22222224, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2103,7 +2099,7 @@ BoxCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 1
+  m_IsTrigger: 0
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
@@ -2117,20 +2113,8 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 2, y: 5}
+  m_Size: {x: 5, y: 5}
   m_EdgeRadius: 0
---- !u!114 &2108042663
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2108042660}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3b93a9f6827580146b94b00047c5d83b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &2137231371
 GameObject:
   m_ObjectHideFlags: 0
