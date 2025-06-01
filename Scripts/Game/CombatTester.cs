@@ -5,6 +5,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using System.Collections;
+using UnityEngine.AI;
 
 public class CombatTester : MonoBehaviour
 {
@@ -42,7 +43,7 @@ public class CombatTester : MonoBehaviour
                     if (col.TryGetComponent(out SpriteRenderer sr))
                     {
                         target = sr.gameObject;
-                        StartCoroutine("FlashDMG");
+                        StartCoroutine(FlashDMG(target));
                     }
                 }
             }
@@ -51,23 +52,27 @@ public class CombatTester : MonoBehaviour
 
 
   
-        private IEnumerator FlashDMG()
+        private IEnumerator FlashDMG(GameObject trueTarget)
         {
+           
             while (true)
             {
-                for(int i = 0; i < 2; i++)
+            trueTarget.GetComponent<NavMeshAgent>().enabled = false;
+
+
+                for (int i = 0; i < 2; i++)
                 {
-                    Debug.Log($"{i}");
-                    target.GetComponent<SpriteRenderer>().color = Color.red;
-                    yield return new WaitForSeconds(0.2f);
-                    target.GetComponent<SpriteRenderer>().color = Color.white;
-                    yield return new WaitForSeconds(0.2f);
+
+                    trueTarget.GetComponent<SpriteRenderer>().color = Color.red;
+                    yield return new WaitForSeconds(0.15f);
+                    trueTarget.GetComponent<SpriteRenderer>().color = Color.white;
+                    yield return new WaitForSeconds(0.15f);
+                    trueTarget.GetComponent<SpriteRenderer>().color = Color.red;
+                    yield return new WaitForSeconds(0.15f);
                    
                 }
 
-                yield return new WaitForSeconds(0.2f);
-
-                target.SetActive(false);
+                trueTarget.SetActive(false);
                 StopCoroutine("FlashDMG");
                 
             }

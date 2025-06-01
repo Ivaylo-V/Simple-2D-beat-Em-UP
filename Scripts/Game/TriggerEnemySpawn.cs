@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.AI;
 
 public class TriggerEnemySpawn : MonoBehaviour
 {
@@ -22,10 +23,12 @@ public class TriggerEnemySpawn : MonoBehaviour
     {
         for(int i = 0; i < spawnAmount; i++)
         {
-            Debug.Log($"spawn{i}");
             _spawnPoint.transform.position = new Vector3(_spawnPoint.transform.position.x - i, _spawnPoint.transform.position.y, _spawnPoint.transform.position.z);
             GameObject spawnedObject = Instantiate(_enemyPrefab, _spawnPoint.position, _spawnPoint.rotation);
             spawnedObject.transform.SetParent(_level.transform);
+            spawnedObject.GetComponent<NavMeshAgent>().enabled = true;
+            GameObject target = GameObject.Find("Boatman Shadow");
+            spawnedObject.GetComponent<EnemyAI>()._Traget = target.transform;
         }
     }
 }
